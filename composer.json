@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Emma\\Test\\": "src/"
+            "Emmalin\\Test\\": "src/"
         }
     }
 }
