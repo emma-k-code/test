@@ -1,12 +1,12 @@
 {
-    "name": "emma/test",
+    "name": "emmalin/test",
     "authors": [
         {
             "name": "Emma",
             "email": "emmalin0822@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
     "autoload": {
         "psr-4": {
             "Emma\\Test\\": "src/"

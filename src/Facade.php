@@ -1,6 +1,6 @@
 <?php
 
-namespace Emma\Test;
+namespace Emmalin\Test;
 
 use Illuminate\Support\Facades\Facade as IlluminateFacade;
 
